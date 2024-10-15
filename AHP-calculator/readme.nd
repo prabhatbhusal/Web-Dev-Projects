@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>AHP Calculator Description</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        .container {
+            background-color: #ecf0f1;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+        }
+        ul {
+            list-style-type: square;
+            margin-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>AHP Calculator</h1>
+    <p>An <strong>AHP (Analytic Hierarchy Process) Calculator</strong> is a tool used for decision-making by helping to prioritize and evaluate multiple options based on a set of criteria. It simplifies the process by breaking it down into the following steps:</p>
+
+    <ul>
+        <li><strong>Define the Goal:</strong> Clearly identify the objective of the decision-making process.</li>
+        <li><strong>Criteria Selection:</strong> Break down the decision into relevant criteria and sub-criteria.</li>
+        <li><strong>Pairwise Comparisons:</strong> Compare each criterion against the others to establish their relative importance using a scale.</li>
+        <li><strong>Weight Calculation:</strong> The tool calculates the weight or priority of each criterion.</li>
+        <li><strong>Consistency Check:</strong> Verifies that the judgments are consistent and logical.</li>
+        <li><strong>Rank Alternatives:</strong> The alternatives or options are evaluated based on the weighted criteria to produce a final ranking.</li>
+    </ul>
+
+    <p>An AHP calculator makes decision-making more efficient and is used in fields such as engineering, project management, and business.</p>
+</div>
+
+</body>
+</html>
